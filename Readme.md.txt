@@ -1,0 +1,62 @@
+Inventory & Stock-Out Analysis
+
+Project Overview
+
+This project analyses inventory data to identify stock-out problems, monitor inventory levels, evaluate reorder requirements, and support better inventory management decisions.
+
+The project uses Excel, SQL, and Power BI to transform raw inventory data into meaningful business insights.
+
+Business Objectives
+
+- Identify products experiencing stock-outs.
+- Analyse stock availability across warehouses.
+- Identify products requiring replenishment.
+- Evaluate inventory risk levels.
+- Support data-driven inventory decisions.
+
+Tools & Technologies
+
+- Microsoft Excel / WPS Office – Data cleaning and analysis
+- MySQL – Data querying and analysis
+- Microsoft Power BI – Interactive dashboard and visualisation
+
+Dataset
+
+- 300 inventory records
+- 11 original data columns
+- Product, category, warehouse, supplier, stock, sales, reorder level, lead time, and unit cost.
+
+Key Business Findings
+
+- Total inventory records: 300
+- Total current stock: 28,974 units
+- Stock-out records: 122
+- Stock-out rate: 40.67%
+- Reorder-required records: 166
+- Reorder rate: 55.33%
+- Average stock coverage: 28.46 days
+- Total inventory value: 277,223,950 (currency not specified in source data)
+
+Recommendations
+
+1. Prioritise replenishment of stock-out products.
+2. Monitor products below reorder levels.
+3. Review inventory risk across warehouses.
+4. Improve stock monitoring and replenishment planning.
+5. Investigate recurring stock-out patterns.
+
+Project Deliverables
+
+- Excel inventory analysis workbook
+- MySQL database and SQL queries
+- Power BI interactive dashboard
+- Business insights and recommendations
+- Complete project documentation
+
+Skills Demonstrated
+
+Data cleaning, Excel analysis, SQL querying, KPI development, Power BI dashboard creation, business analysis, data visualisation, and business recommendations.
+
+Conclusion
+
+This project demonstrates an end-to-end business analytics workflow, converting raw inventory data into actionable insights to support inventory management and operational decision-making.
